@@ -1,0 +1,48 @@
+body{
+
+    background: radial-gradient(#fff, #ffd6d6);
+}
+.container{
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+h4{
+    color: #ff523b;
+    text-align: center;
+    font-size: 4em;
+    font-weight: bold;
+}
+h3{
+    text-align: center;
+    font-size: 3em;
+}
+h2{
+    text-align: center;
+    font-size: 2em;
+}
+.title{
+    content: '';
+    background: #3bff4b;
+}
+.small-container{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.col-5{
+    width: 160px;
+}
+.col-5 img{
+    margin-top: 10%;
+    width: 100%;
+    padding: 15%;
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
